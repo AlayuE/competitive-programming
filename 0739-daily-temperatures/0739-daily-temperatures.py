@@ -9,3 +9,4 @@ class Solution:
                 output[item[1]] = i - item[1]
             stack.append([a,i])
         return output
+        
