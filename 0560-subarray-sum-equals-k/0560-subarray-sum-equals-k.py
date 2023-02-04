@@ -14,4 +14,3 @@ class Solution:
             else:
                 d[prefSum] = 1
         return count
-        
